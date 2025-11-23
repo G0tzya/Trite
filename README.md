@@ -79,6 +79,6 @@ batchCircle.draw()
 
 ## Documentation 📖
 
-Does not exist. I have no clue how anybody has the will power to create documentation for larger code projects. Might make one later if I feel like it. In the mean while, use this link below to get to the download page of PixiJS instead which does have documenation and far more features; of course, disguised as my documentation.
+Does not exist. I have no clue how anybody has the will power to create documentation for larger code projects. Might make one later if I feel like it. In the mean while, use this link below to get to the download page of PixiJS instead which does have documenation and far more features; of course, disguised as my documentation. This project is mostly for personal use but is made public for anyone who's curious.
 
 [📚 [Documentation]](https://github.com/pixijs/pixijs/releases)
